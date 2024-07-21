@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Tuan Huy, aka Huy Tuan</h1>
-<h3 align="center">A passionate backend developer, and also a sophomore student from SoICT-HUST</h3>
+<h3 align="center">Hedspi Student from SoICT-HUST</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on **my personal projects**
