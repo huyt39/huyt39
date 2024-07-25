@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **backend programming skills**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UVUAAVcBBABVCwlXUAVRVwACVVVWDgZUVAJZUA0d95](https://www.topcv.vn/xem-cv/UVUAAVcBBABVCwlXUAVRVwACVVVWDgZUVAJZUA0d95)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
