@@ -2,9 +2,13 @@
 <h3 align="center">Hedspi Student from SoICT-HUST</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **my personal projects**
+* 🌍  I'm based in Hanoi
+* ✉️  You can contact me at [hotuanhuy1203@gmail.com](mailto:hotuanhuy1203@gmail.com)
+* 🧠  I'm learning App/Web Development as well as Data and AI
+* 🤝  I'm open to collaborating on new projects
 
-- 🌱 I’m currently learning **backend programming skills**
+<a href="https://www.github.com/huyt39" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/huyt39?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
