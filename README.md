@@ -5,7 +5,6 @@
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [hotuanhuy1203@gmail.com](mailto:hotuanhuy1203@gmail.com)
 * 🧠  I'm learning App/Web Development as well as Data and AI
-* 🤝  I'm open to collaborating on new projects
 
 <a href="https://www.github.com/huyt39" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/huyt39?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
